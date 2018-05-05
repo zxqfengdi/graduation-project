@@ -1,1 +1,12 @@
-# graduation-project
+简单人脸识别系统
+
+系统：windows 10 或 ubuntu 16.04
+python版本：python3.5
+
+实现功能：
+  1 图片中检测人脸，对人脸进行标记
+  2 图片中检测人脸，对人脸进行识别
+  3 摄像头实时检测人脸并识别
+ 
+注：windows 10下运行比较慢，建议linux下运行
+    
