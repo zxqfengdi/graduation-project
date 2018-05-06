@@ -1,6 +1,7 @@
 简单人脸识别系统
 
 系统：windows 10 或 ubuntu 16.04
+
 python版本：python3.5
 
 实现功能：
